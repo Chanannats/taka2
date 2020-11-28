@@ -46,25 +46,6 @@ class MapSampleState extends State<MapSample> {
                   myLocationButtonEnabled: false,
                   zoomControlsEnabled: false,
                 ),
-                // Positioned(
-                //   top: 40,
-                //   left: 10,
-                //   child: Container(
-                //     child: new IconButton(
-                //       icon: new Icon(Icons.arrow_back),
-                //        onPressed: () {
-                //          Navigator.push(
-                //              context,
-                //              MaterialPageRoute(
-                //                  builder: (context) => EditScreen()));
-                //        }
-                //     ),
-
-                //     // child: Icon(
-                //     //   Icons.arrow_back,
-                //     //   size: 28,
-                //   ),
-                // ),
                 Positioned(
                     bottom: 10,
                     right: 10,
